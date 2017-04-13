@@ -1,4 +1,3 @@
-Setting up Project
 
 Google nearby API is one of the many APIs provided by google to get geographical information about nearby places like restaurants, gas stations, cafes, bars, hospitals using HTTP request.
 
